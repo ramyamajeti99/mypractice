@@ -1,1 +1,2 @@
 file has A,B
+file of c
